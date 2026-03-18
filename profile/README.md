@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hc-pragma-ai/.github/main/assets/pragma-logo.svg" alt="Pragma AI" width="180" />
+</p>
+
 # Pragma AI
 
 **Act on intelligence. Not just data.**
